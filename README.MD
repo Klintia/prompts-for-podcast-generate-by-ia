@@ -1,7 +1,7 @@
 # README - Podcast "Conexão Profissional: Tecnologia e o Futuro do Trabalho"
 
 ## Objetivo do Projeto
-Este projeto foi criado com o objetivo de oferecer um roteiro estruturado para um podcast que explora como a tecnologia impacta e transforma diferentes profissões. O episódio inaugural foca em destacar três motivos fundamentais para que profissionais de todas as áreas se aprofundem no aprendizado sobre tecnologia, trazendo um tom descontraído e informativo.
+Este projeto foi criado com o objetivo de oferecer um roteiro estruturado para um podcast que explora como a tecnologia impacta e transforma diferentes profissões. O episódio inaugural foca em destacar três motivos fundamentais para que profissionais de todas as áreas se aprofundem no aprendizado sobre tecnologia, trazendo um tom descontraído e informativo. Link: https://github.com/Klintia/prompts-for-podcast-generate-by-ia/blob/main/output_podcast_editado.MP3
 
 ## Como foi elaborado
 O roteiro foi desenvolvido para ter duração máxima de 5 minutos, dividido em:
